@@ -273,6 +273,7 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 |Receta aceptada|receta adecuada al perfil, las alergias o las restricciones alimentarias de un paciente. La plataforma no modifica automáticamente sus ingredientes o cantidades|DVA s1.1, 2.1 A3 s3|
 |Cuidadores |familiares o profesionales que asisten a los pacientes en la gestión de su dieta, actuando como usuarios secundarios que buscan y administran recetas en nombre de los pacientes| DVA s3.1|
 |Coordinador | usuario responsable de supervisar la actividad en la plataforma.| DVA s3.1|
+|Pacientes | usuarios principales del sistema, que buscan recetas personalizadas para mejorar su dieta y controlar los síntomas de su enfermedad.| A3 s2|
 
 ## 10. Modelos de análisis
 
