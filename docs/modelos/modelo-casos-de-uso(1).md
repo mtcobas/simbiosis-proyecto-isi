@@ -111,7 +111,7 @@ El inicio de sesión no se incluye en todos los casos protegidos. La comprobaci�
 
 La imagen se conserva en el repositorio con el nombre usado para esta referencia. Las revisiones de esta vista actualizarán el mismo archivo. Las nuevas vistas tendrán archivos distintos, de acuerdo con la [guía de modelos](README.md).
 
-### 4.1 Vista de recetas y datos de salud E2
+### 4.2 Vista de recetas y datos de salud E2
 
 **Frontera del sistema:** Proyecto Simbiosis.
 
