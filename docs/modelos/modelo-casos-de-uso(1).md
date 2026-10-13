@@ -117,7 +117,7 @@ La imagen se conserva en el repositorio con el nombre usado para esta referencia
 
 **Alcance:** Registro y acceso local, condiciones por perfil, gestión básica de cuentas, ayuda contextual y bienvenida. La vista contiene siete actores y los quince casos de uso del apartado 3.
 
-![Vista de acceso, cuentas y ayuda de E1](imagenes/casos-de-uso-acceso-cuentas-ayuda-e1.png)
+![Vista de acceso, cuentas y ayuda de E1](imagenes/casos-de-uso-salud-recetas-e2.png)
 
 **Relaciones entre casos de uso y recetas E2.**
 
